@@ -10,7 +10,7 @@ main:
     url: /_pages/team/
     
   - title: "Projects"
-    url: https://baderelden.github.io//
+    url: /_pages/project/
     
   - title: "Publications"
     url: https://baderelden.github.io//
